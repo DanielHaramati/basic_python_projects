@@ -28,5 +28,4 @@ def alarm_clock(alarm_time_str):
         
         time.sleep(1)
 
-# Run the alarm
-alarm_clock("7:30")
+#alarm_clock("7:30")
